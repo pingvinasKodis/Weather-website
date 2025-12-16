@@ -1,2 +1,2 @@
 # Weather-website
-Simple weather website for my personal portfolio
+Weather website for my building skills and personal experience...
